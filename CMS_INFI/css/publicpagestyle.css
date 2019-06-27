@@ -1,0 +1,19 @@
+#postheading{
+	font-family:Bitter,Georgia,"Times New Roman";
+	font-weight: bold;
+	color:black;
+}
+#postheading:hover{;
+	color:gray;
+}
+.content{
+	font-size: 1.1em;
+	font-family: "Lucida Sans Unicode",sans-serif;
+	text-align:justify;
+}
+#readmorebtn{
+	float:right;
+}
+.commentblock{
+	background-color:gray;
+}
